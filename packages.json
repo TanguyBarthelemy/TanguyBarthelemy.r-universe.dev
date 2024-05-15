@@ -6,5 +6,25 @@
     {
         "package": "JDCruncheR",
         "url": "https://github.com/InseeFr/JDCruncheR"
+    },
+    {
+        "package": "rjd3toolkit",
+        "url": "https://github.com/rjdverse/rjd3toolkit"
+    },
+    {
+        "package": "rjd3x13",
+        "url": "https://github.com/rjdverse/rjd3x13"
+    },
+    {
+        "package": "rjd3tramoseats",
+        "url": "https://github.com/rjdverse/rjd3tramoseats"
+    },
+    {
+        "package": "rjd3providers",
+        "url": "https://github.com/rjdverse/rjd3providers"
+    },
+    {
+        "package": "rjd3workspace",
+        "url": "https://github.com/rjdverse/rjd3workspace"
     }
 ]
