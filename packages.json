@@ -58,5 +58,9 @@
     {
         "package": "rjd3nowcasting",
         "url": "https://github.com/rjdverse/rjd3nowcasting"
+    },
+    {
+        "package": "TBox",
+        "url": "https://github.com/TanguyBarthelemy/TBox"
     }
 ]
