@@ -1,13 +1,5 @@
 [
     {
-        "package": "rjdworkspace",
-        "url": "https://github.com/InseeFrLab/rjdworkspace"
-    },
-    {
-        "package": "JDCruncheR",
-        "url": "https://github.com/InseeFr/JDCruncheR"
-    },
-    {
         "package": "rjd3toolkit",
         "url": "https://github.com/rjdverse/rjd3toolkit"
     },
@@ -62,5 +54,13 @@
     {
         "package": "TBox",
         "url": "https://github.com/TanguyBarthelemy/TBox"
+    },
+    {
+        "package": "IssueTrackeR",
+        "url": "https://github.com/TanguyBarthelemy/IssueTrackeR"
+    },
+    {
+        "package": "releaser",
+        "url": "https://github.com/TanguyBarthelemy/releaser"
     }
 ]
